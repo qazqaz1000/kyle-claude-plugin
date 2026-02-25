@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "extraKnownMarketplaces": {
+    "kyle-claude-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "qazqaz1000/kyle-claude-plugin"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "kyle-claude-plugin@kyle-claude-marketplace": true
+  }
+}
