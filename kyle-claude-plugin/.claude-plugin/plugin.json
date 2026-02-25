@@ -1,0 +1,8 @@
+{
+  "name": "kyle-claude-plugin",
+  "description": "Kyle 개인 Claude Code 플러그인",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kyle"
+  }
+}

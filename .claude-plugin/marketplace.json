@@ -1,0 +1,13 @@
+{
+  "name": "kyle-claude-marketplace",
+  "owner": {
+    "name": "Kyle"
+  },
+  "plugins": [
+    {
+      "name": "kyle-claude-plugin",
+      "source": "./kyle-claude-plugin",
+      "description": "Kyle 개인 워크플로우용 Claude Code plugin"
+    }
+  ]
+}
